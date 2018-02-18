@@ -233,5 +233,8 @@ public class Game {
     }
     
     
+    //TODO: check the win condition on the left and right main diagonal
+    
+    
     
 }
